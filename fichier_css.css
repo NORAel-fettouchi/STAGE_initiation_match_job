@@ -1,0 +1,173 @@
+/* Mise en forme du titre principal */
+.titre-principal {
+  font-size: 2em;
+  text-align: center;
+}
+
+/* Style des sous-titres */
+.sous-titre {
+  color: darkblue;
+}
+
+/* Texte principal */
+.texte {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* Pied de page */
+.footer-text {
+  text-align: center;
+  font-size: 0.9em;
+  color: gray;
+}
+i {
+  margin-right: 8px;
+  color: #555;
+}
+/* Image de fond générale */
+.c1 {
+  background-image: url("https://media.istockphoto.com/id/1372008775/vector/metaverse-connection-to-the-virtual-space.jpg?s=612x612&w=0&k=20&c=siE8oyReS0EwXNQ77PvXeNzpr8D-t0Zc74WMJNOaRF8="); /* Mets ton image ici */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.c2 {
+  background-image: url("https://media.istockphoto.com/id/1440217229/photo/cheerful-female-gamer-winning-an-online-game-on-a-laptop.jpg?s=1024x1024&w=is&k=20&c=ItZet6M_lm7UaP75ivKz22Bn7lGIfFS3X5MDuIEpn3U="); /* Mets ton image ici */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+/* Titre principal */
+.titre-principal {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 20px;
+  color: #6a1b9a; /* Mauve foncé */
+}
+
+/* Navigation */
+nav ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 20px 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  background-color: #ba68c8; /* Mauve clair */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+nav ul li a:hover {
+  background-color: #9c27b0;
+}
+
+/* Section principale */
+section {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: rgba(255, 255, 255, 0.1); /* fond léger */
+  margin: 20px;
+  border-radius: 10px;
+}
+
+/* Sous-titre */
+.sous-titre {
+  color: #c20ee2; /* Mauve clair */
+  font-size: 1.8em;
+}
+
+/* Texte normal */
+.texte {
+  font-size: 1.2em;
+  color: #f3e5f5;
+}
+
+/* Liens sociaux */
+footer ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+footer ul li {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+footer i {
+  margin-right: 8px;
+  color: #f48fb1; /* rose clair */
+}
+
+/* Footer */
+.footer-text {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 0.9em;
+  color: #ddd;
+  margin-top: 40px;
+}
+/* Styles des champs du formulaire */
+input[type="email"],
+input[type="password"] {
+  width: 80%;
+  max-width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 5px;
+  font-size: 1em;
+}
+
+/* Bouton de connexion */
+button.btn,
+button[type="submit"] {
+  background-color: #ba68c8;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button.btn:hover {
+  background-color: #9c27b0;
+}
+.form-background {
+  background-image: url("https://media.istockphoto.com/id/1303182525/photo/abstract-background-white-light-blue-purple-color-gradient-defocused.jpg?s=612x612&w=0&k=20&c=Via5hY-2Ax53av2oaNFSz7N2LfMIdQnAlz89bBV3m5s=");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 40px 20px;
+  margin: 30px auto;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.4); /* fond semi-transparent */
+  color: white;
+}
+
+
