@@ -1,2 +1,0 @@
-Si tu veux te concentrer sur la Data Science avec Python, il est essentiel de maîtriser les bibliothèques clés (Numpy, Pandas, Matplotlib/Seaborn, Scikit-learn) ainsi que les bases du machine learning et les principes statistiques. En combinant ces connaissances avec des projets pratiques,
- tu seras bien préparé pour devenir compétent en Data Science !
