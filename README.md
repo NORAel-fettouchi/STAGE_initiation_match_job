@@ -39,12 +39,7 @@ projet_stage/
 ├── .vscode/
 │   └── launch.json        # Configuration de débogage VS Code (Chrome)
 │
-└── CV/                    # Documents personnels (stage)
-    ├── CV_ EL_fettouchi NORA.pdf
-    ├── CV DE STAGE[1].docx
-    ├── Attestation de stage.pdf
-    ├── Demande de stage 1-ème année cycle ingénieur.docx
-    └── what do u have to doby the end of this year.txt
+└──
 ```
 
 ---
