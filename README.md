@@ -7,7 +7,7 @@
 
 ## 📌 Description du projet
 
-Ce projet est une **application web de recommandation de carrière** pour les étudiants. Il combine un **front-end HTML/CSS**, un **back-end PHP**, une **base de données MySQL/SQLite**, et un **traitement de données Python** basé sur des datasets réels pour analyser les profils étudiants et suggérer des parcours professionnels adaptés.
+Ce projet est une **application web de recommandation de carrière** pour les étudiants. Il combine un **front-end HTML/CSS**, un **back-end PHP**, une **base de données MySQL**, et un **traitement de données Python** basé sur des datasets réels pour analyser les profils étudiants et suggérer des parcours professionnels adaptés.
 
 L'objectif principal : aider les étudiants à trouver leur voie en analysant leurs centres d'intérêt et en les associant à des filières ou métiers correspondants.
 
